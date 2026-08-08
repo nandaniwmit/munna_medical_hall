@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://munna-medical-hall.vercel.app/sitemap.xml
