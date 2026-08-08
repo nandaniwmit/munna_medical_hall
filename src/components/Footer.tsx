@@ -167,7 +167,7 @@ export default function Footer({ setActiveTab }: FooterProps) {
           {/* Copyrights & Pulse */}
           <div className="flex flex-col sm:flex-row items-center gap-4 text-center sm:text-left">
             <div>
-              &copy; {new Date().getFullYear()} Munna Medical Hall. All Rights Reserved. Developed by <a href="https://main.webmakerit.com" target="_blank" rel="noopener noreferrer" className="hover:text-emerald-400 font-semibold underline transition-colors">WMIT</a>
+              &copy; {new Date().getFullYear()} Munna Medical Hall. All Rights Reserved. Developed by <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
             </div>
             <div className="flex items-center gap-2 bg-slate-900/60 px-3 py-1 rounded-full border border-slate-800">
               <div className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></div>
